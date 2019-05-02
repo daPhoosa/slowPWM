@@ -14,4 +14,4 @@ void set( int rate );      // set desired PWM duty cycle (0-255)
 bool check();              // returns TRUE during the on portion of the cycle and FALSE for the off portion
 ```
 
-See the examples folder for a sketch showing hte usage for blinking an LED
+See the examples folder for a sketch showing the usage for blinking an LED
